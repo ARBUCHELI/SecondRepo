@@ -1,2 +1,3 @@
-# SecondRepo
-This is my Second Repository that is created straight on the GitHub Server
+# Example 2
+
+Second example for students Full Stack Developer course.
